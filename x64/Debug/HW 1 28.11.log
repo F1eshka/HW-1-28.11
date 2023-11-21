@@ -1,0 +1,3 @@
+﻿  HW 1 28.11.cpp
+C:\Users\Rog\source\repos\HW 1 28.11\HW 1 28.11.cpp(32,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  HW 1 28.11.vcxproj -> C:\Users\Rog\source\repos\HW 1 28.11\x64\Debug\HW 1 28.11.exe
